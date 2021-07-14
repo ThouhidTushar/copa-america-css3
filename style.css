@@ -230,6 +230,7 @@ p{
 	}
 .player{
 	flex-direction: column;
+	/* direction:  ; */
 }
 
 }
