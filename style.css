@@ -15,7 +15,8 @@ main{
 	width: 1440px;
 	height: 677px;
 	background-color: #2D25A0;
-	margin-left: 310px;	
+	margin: auto;
+	margin-top: -10px;	
 }
 
 .title{
